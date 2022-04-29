@@ -35,10 +35,10 @@ Pour terminer l’installation manuelle de WordPress pour votre site, cliquez su
 
 Un nouveau formulaire vous sera soumis. Vous devrez renseigner :
 
-le titre de votre site : il apparaîtra sur les pages de votre site et vous pourrez le modifier à tout moment,
-votre identifiant : il est recommandé de ne pas le nommer « admin » pour des raisons de sécurité,
-un mot de passe complexe,
-une adresse de messagerie : elle sera l’adresse mail principale pour l’administration de votre site et vous pourrez la modifier dans les réglages généraux du back-office si besoin.
+<h3>le titre de votre site :</h3> il apparaîtra sur les pages de votre site et vous pourrez le modifier à tout moment,
+</h3>votre identifiant :</h3> il est recommandé de ne pas le nommer « admin » pour des raisons de sécurité,
+<h3>un mot de passe complexe</h3>
+<h3>une adresse de messagerie :</h3> elle sera l’adresse mail principale pour l’administration de votre site et vous pourrez la modifier dans les réglages généraux du back-office si besoin.
 Ne cochez pas la case Demander aux moteurs de recherche de ne pas indexer ce site si vous souhaitez que celui-ci apparaisse dans les résultats des moteurs comme Google ou Bing. En revanche, vous pouvez cocher cette case le temps de configurer votre site. Vous pourrez la décocher après dans les options de votre site WordPress.
 Vous recevrez par email les informations de connexion à votre site. Lorsque tous ces champs sont remplis, cliquez sur : Installer WordPress.
 
