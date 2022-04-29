@@ -1,0 +1,41 @@
+**********************************************************CMS*****************************************************************
+
+Un CMS est un « Content Management System » ou système de gestion de contenu en français. Un CMS sert à faciliter l’administration d’un site web.
+
+Effectivement, un CMS propose une interface graphique pour gérer les contenus d’un site internet, afin que les créateurs de contenu puissent gérer leur sites web sans l’aide d’un développeur.
+
+Un site web qui ne nécessite pas de mises à jour fréquentes ou de nouveau contenu peut se contenter de pages codées en dur. Mais pour les entreprises qui ont plusieurs utilisateurs ou qui publient régulièrement de nouveaux contenus sur leur site internet, un éditeur est nécessaire.
+
+En plus d’être plus facile à utiliser, un CMS permet de gagner en réactivité en diffusant du contenu très rapidement.
+*Voici les fonctionnalités principales d’un système de management de contenu :
+
+Bibliothèque pour gérer les images, vidéos, pdf, etc.
+Authentification des utilisateurs avec la prise en charge de rôles multiples et l’attribution de permissions.
+Création de contenu avec une possibilité d’examen et d’approbation du contenu.
+Gestion de plusieurs langues.
+Capacité à prendre en charge le contenu de divers appareils (tels que les tablettes ou les smartphones).
+
+********************************************étude de benchmarking des CMS***************************************************
+
+
+
+
+
+*********************************************************WordPress***********************************************************
+
+WordPress est une plateforme de gestion de contenu ou CMS (Content Management System) qui propulse plus de 39% des sites web présents sur les Internets.
+  Simple et flexible, il s’agit d’un système utilisé pour créer toutes sortes de sites web, du simple blogue allant au site multilingue d’une entreprise complexe, 
+en passant par une boutique en ligne. Régulièrement mis à jour, possédant de nombreux thèmes et extensions disponibles, WordPress est une plateforme évolutive qui 
+suit les standard du web. De plus, WordPress est un logiciel libre utilisant la licence open-source GPLv2. Il sera donc toujours gratuit et libre d’usage, peu importe
+ l’utilisation qu’on en fait. Et on aime ça.
+Mais bon, tout ça et bien plus a déjà été dit de façon très éloquente par bien d’autres gens avant moi, dont la gang de WordPress Francophone.
+
+WordPress sert à créer des sites web, de A à Z sans avoir à connaître un langage de programmation ou de code (mais on s’entend que c’est un atout non négligeable). WordPress C’EST le code. #codeispoetry
+
+WordPress peut être utilisé pour monter tout genre de site:
+
+Blogue personnel ou collaboratif, de style magazine
+Boutique en ligne
+Site d’entreprise
+Site de communauté ou d’association avec échanges, forums et plus
+
