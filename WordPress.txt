@@ -4,7 +4,8 @@ Un CMS est un « Content Management System » ou système de gestion de contenu 
 
 Effectivement, un CMS propose une interface graphique pour gérer les contenus d’un site internet, afin que les créateurs de contenu puissent gérer leur sites web sans l’aide d’un développeur.
 
-Un site web qui ne nécessite pas de mises à jour fréquentes ou de nouveau contenu peut se contenter de pages codées en dur. Mais pour les entreprises qui ont plusieurs utilisateurs ou qui publient régulièrement de nouveaux contenus sur leur site internet, un éditeur est nécessaire.
+Un site web qui ne nécessite pas de mises à jour fréquentes ou de nouveau contenu peut se contenter de pages codées en dur. Mais pour les entreprises qui ont plusieurs utilisateurs ou qui publient 
+régulièrement de nouveaux contenus sur leur site internet, un éditeur est nécessaire.
 
 En plus d’être plus facile à utiliser, un CMS permet de gagner en réactivité en diffusant du contenu très rapidement.
 *Voici les fonctionnalités principales d’un système de management de contenu :
@@ -17,9 +18,16 @@ Capacité à prendre en charge le contenu de divers appareils (tels que les tabl
 
 ********************************************étude de benchmarking des CMS***************************************************
 
+Le benchmarking peut être réalisé dans le cadre du lancement d'un nouveau produit ou service sur le marché. Particulièrement utilisé dans les domaines innovants,
+ il permet ainsi de diminuer considérablement les risques. Mais le benchmarking ne se cantonne pas uniquement aux nouveaux projets. Au contraire, il présente
+ de nombreux avantages à chaque étape du développement d'une entreprise. Il donne la possibilité de s'inspirer d'autres pratiques qui ont fait leurs preuves,
+ dans d'autres structures, et d'améliorer ainsi sa compétitivité et sa productivité. Globalement, la mise en place d'un benchmarking offre un véritable avantage
+ concurrentiel. Il n'est pas question de copier les schémas de réussite mais plutôt d'en faire une source d'inspiration.
 
-
-
+Le benchmarking peut représenter le point de départ d'un plan stratégique complet, en vue d'optimiser les performances de l'entreprise et/ou de lancer un produit
+ ou service. Les référentiels externes sont en effet essentiels afin de prendre du recul et de définir rapidement de nouvelles actions à déployer. 
+faut voir le benchmarking comme un outil de synthétisation des informations, pour les rendre plus lisibles, et non comme de l'espionnage auprès des entreprises 
+concurrentes.
 
 *********************************************************WordPress***********************************************************
 
